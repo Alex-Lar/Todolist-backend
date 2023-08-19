@@ -4,5 +4,4 @@
 
 ## Description
 
-| Todolist is a simple application for creating and managing your tasks.
-
+Todolist is a simple application for creating and managing your tasks.
