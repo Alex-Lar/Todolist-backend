@@ -1,4 +1,3 @@
-<div style="display: flex; justify-content: center; align-items: center; padding-top: 5rem;">
-  <img src="./todolist-logo.png" alt="Logo" style="max-width: 200px;">
-</div>
-
+<p align="center">
+  <img src="./todolist-logo.png" width="300" alt="Todolist Logo" /></a>
+</p>
