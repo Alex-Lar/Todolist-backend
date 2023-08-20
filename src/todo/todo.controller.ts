@@ -5,7 +5,7 @@ import { Todo } from './todo.entity';
 
 @Controller('todo')
 export class TodoController {
-  constructor(private todoService: TodoService) { }
+  constructor(private todoService: TodoService) {}
 
   @Post()
   async create(@Body() createTodoDto: CreateTodoDto): Promise<void> {

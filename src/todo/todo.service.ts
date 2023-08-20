@@ -8,7 +8,7 @@ export class TodoService {
   constructor(
     @InjectRepository(Todo)
     private todosRepository: Repository<Todo>,
-  ) { }
+  ) {}
 
   async create(todo: string): Promise<void> {
     const newTodo = this.todosRepository.create({
